@@ -62,7 +62,6 @@ My teaching emphasizes scientific reasoning, active learning, case studies, and 
 - STARS Engineering Solutions to Reduce Pesticide Exposure
 - Wind Ramping as a Determinant of Pesticide Drift
 - Investigating Aluminum Cookpots as a Source of Lead Exposure in Afghan Refugee Children Resettled in the United States
-- 
 
 ### Teaching
 
