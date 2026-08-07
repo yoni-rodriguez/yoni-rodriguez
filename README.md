@@ -37,7 +37,7 @@ This GitHub serves as a home for my research projects, reproducible data analyse
 
 - Exposure Science & Risk Assessment
 - Environmental Toxicology & Public Health
-- R Data Analysis
+- R Programming & Statistical Analysis
 - Environmental Monitoring & Air-Quality Sensors
 - ICP-MS Analysis & Laboratory Research
 
