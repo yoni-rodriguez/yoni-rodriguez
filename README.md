@@ -1,8 +1,8 @@
 # Yoni Rodriguez, M.S.
 
-**Environmental Health Scientist | Data Analyst | Assistant Professor**
+**Environmental & Occupational Health Scientist**
 
-*Exposure Science • Environmental Health • Data Science • Occupational Health*
+*Research | Teaching | Data Science*
 
 ---
 
@@ -18,23 +18,23 @@ This GitHub serves as a home for my research projects, reproducible data analyse
 
 ## Selected Research
 
-### 🌾 Agricultural & Occupational Exposures
+### Agricultural & Occupational Exposures
 
 Manage multidisciplinary research investigating pesticide exposure pathways, wildfire smoke, extreme heat, cannabis workplace exposures, and respiratory health.
 
-### 🚜 Precision Agriculture
+### Precision Agriculture
 
 Manage field and laboratory research evaluating pesticide exposure controls using precision agriculture technologies, dermal sampling, tracer fluorometry, and laboratory QA/QC.
 
-### 📊 Data Science & Reproducible Research
+### Data Science & Reproducible Research
 
-Develop R, R Markdown, Git, and GitHub workflows for data cleaning, analysis, visualization, documentation, and collaborative research. Mentor researchers in coding and reproducible research practices.
+Develop R, R Markdown, Quarto, Git, and GitHub workflows for data cleaning, analysis, visualization, documentation, and collaborative research. Mentor researchers in coding and reproducible research practices.
 
-### 🌎 Environmental & Community Health
+### Environmental & Community Health
 
 Developed air-quality monitoring technologies and statistical models for wildfire smoke and pesticide drift. Investigated drinking-water contaminants on the Yakama Reservation and lead exposure from cookware among Afghan refugee children.
 
-### 🚀 Aerospace Environmental Health
+### Aerospace Environmental Health
 
 At NASA, developed and managed initiatives addressing extreme heat, respiratory protection, electromagnetic fields, and occupational exposures in demanding operational environments.
 
@@ -48,7 +48,7 @@ Exposure Science • Risk Assessment • Research Design • Environmental Monit
 
 **Data Science**
 
-R • RStudio • R Markdown • Git • GitHub • Statistical Modeling • Data Visualization • Reproducible Research
+R • RStudio • R Markdown • Quarto • Git • GitHub • Statistical Modeling • Data Visualization • Reproducible Research
 
 **Field & Laboratory Methods**
 
@@ -71,9 +71,7 @@ My teaching emphasizes scientific reasoning, active learning, case studies, data
 
 ---
 
-## Current Projects
-
-### Research
+## Current Research Projects
 
 * **Washington State Heat Stress Policy Survey**
 * **STARS: Engineering Solutions to Reduce Pesticide Exposure**
