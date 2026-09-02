@@ -64,8 +64,8 @@ Research Project Management • Multidisciplinary Collaboration • Research Men
 
 ### Central Washington University
 
-* **SHM 102 – Occupational Health**
-* **SHM 377 – Hazardous Materials Management**
+* **SHM 102 – Occupational Health** https://github.com/yoni-rodriguez/shm-102-occupational-health.git
+* **SHM 377 – Hazardous Materials Management** https://github.com/yoni-rodriguez/shm-377-hazardous-materials-management.git
 
 My teaching emphasizes scientific reasoning, active learning, case studies, data literacy, and reproducible approaches to occupational and environmental health.
 
