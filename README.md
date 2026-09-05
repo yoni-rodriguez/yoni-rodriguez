@@ -1,6 +1,6 @@
 # Yoni Rodriguez, M.S.
 
-**Environmental & Occupational Health Scientist**
+**Environmental Health Scientist**
 
 *Research | Teaching | Data Science*
 
