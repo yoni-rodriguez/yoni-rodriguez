@@ -8,7 +8,7 @@ Central Washington University • University of Washington School of Public Heal
 
 ## About
 
-I’m a Research Scientist at the University of Washington and Assistant Professor at Central Washington University working at the intersection of exposure science, environmental health, occupational health, and data science. My work focuses on understanding how environmental health hazards affect vulnerable popularions and translating scientific evidence into practical approaches for reducing exposure and improving health.
+I’m a Research Scientist at the University of Washington and Assistant Professor at Central Washington University working at the intersection of exposure science, environmental health, occupational health, and data science. My work focuses on understanding how environmental health hazards affect vulnerable populations and translating scientific evidence into practical approaches for reducing exposure and improving health.
 
 Growing up in Washington’s Yakima Valley shaped my interest in environmental health and agricultural worker health. That interest led me from Yakima Valley College to Washington State University, the University of Washington, NASA, and now Central Washington University.
 
