@@ -14,6 +14,8 @@ Growing up in Washington’s Yakima Valley shaped my interest in environmental h
 
 This GitHub serves as a home for my research projects, reproducible data analyses, scientific workflows, and teaching materials.
 
+Outside of work, you’ll usually find me practicing Brazilian Jiu Jitsu or Muay Thai, scuba diving, surfing, rock climbing, cooking, or exploring different parts of the world.
+
 ---
 
 ## Selected Research
