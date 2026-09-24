@@ -2,7 +2,7 @@
 
 **Research Scientist | Assistant Professor**
 
-*Exposure Science • Environmental & Occupational Health • Data Science*
+*Central Washington University • University of Washington School of Public Health
 
 ---
 
