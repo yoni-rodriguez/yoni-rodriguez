@@ -2,7 +2,7 @@
 
 **Research Scientist | Assistant Professor**
 
-*Central Washington University • University of Washington School of Public Health
+Central Washington University • University of Washington School of Public Health
 
 ---
 
