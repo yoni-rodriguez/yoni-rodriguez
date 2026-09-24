@@ -1,14 +1,14 @@
 # Yoni Rodriguez, M.S.
 
-**Environmental Health Scientist**
+**Research Scientist | Assistant Professor**
 
-*Research | Teaching | Data Science*
+*Exposure Science • Environmental & Occupational Health • Data Science*
 
 ---
 
 ## About
 
-I’m an Environmental Health Scientist, Data Analyst, and Assistant Professor working at the intersection of exposure science, environmental health, data science, and occupational health. My work focuses on understanding how environmental hazards affect workers and communities and translating scientific evidence into practical approaches for reducing exposure and improving health.
+I’m a Research Scientist at the University of Washington and Assistant Professor at Central Washington University working at the intersection of exposure science, environmental health, occupational health, and data science. My work focuses on understanding how environmental hazards affect vulnerable popularions and translating scientific evidence into practical approaches for reducing exposure and improving health.
 
 Growing up in Washington’s Yakima Valley shaped my interest in environmental health and agricultural worker health. That interest led me from Yakima Valley College to Washington State University, the University of Washington, NASA, and now Central Washington University.
 
@@ -28,15 +28,15 @@ Manage field and laboratory research evaluating pesticide exposure controls usin
 
 ### Data Science & Reproducible Research
 
-Develop R, R Markdown, Quarto, Git, and GitHub workflows for data cleaning, analysis, visualization, documentation, and collaborative research. Mentor researchers in coding and reproducible research practices.
+Develop R, R Markdown, Quarto, Git, and GitHub workflows for data cleaning, analysis, visualization, documentation, and collaborative research. Mentor students and researchers in coding and reproducible research practices.
 
 ### Environmental & Community Health
 
-Developed air-quality monitoring technologies and statistical models for wildfire smoke and pesticide drift. Investigated drinking-water contaminants on the Yakama Reservation and lead exposure from cookware among Afghan refugee children.
+Developed air quality monitoring technologies and statistical models for wildfire smoke and pesticide drift. Investigated drinking water contaminants on the Yakama Reservation and lead exposure from cookware among Afghan refugee children.
 
 ### Aerospace Environmental Health
 
-At NASA, developed and managed initiatives addressing extreme heat, respiratory protection, electromagnetic fields, and occupational exposures in demanding operational environments.
+At NASA Armstrong Flight Research Center, developed and managed initiatives addressing extreme heat, respiratory protection, electromagnetic fields, and occupational exposures in demanding operational environments.
 
 ---
 
@@ -52,7 +52,7 @@ R • RStudio • R Markdown • Quarto • Git • GitHub • Statistical Model
 
 **Field & Laboratory Methods**
 
-Environmental Monitoring • Air-Quality Sensors • Fluorometry • Dermal Sampling • ICP-MS • Laboratory QA/QC
+Air Quality Monitoring • Fluorometry • Dermal Sampling • ICP MS • Laboratory QA/QC
 
 **Research Leadership**
 
@@ -64,8 +64,11 @@ Research Project Management • Multidisciplinary Collaboration • Research Men
 
 ### Central Washington University
 
-* **SHM 102 – Occupational Health** https://github.com/yoni-rodriguez/shm-102-occupational-health.git
-* **SHM 377 – Hazardous Materials Management** https://github.com/yoni-rodriguez/shm-377-hazardous-materials-management.git
+* **SHM 102: Occupational Health**
+  https://github.com/yoni-rodriguez/shm-102-occupational-health
+
+* **SHM 377: Hazardous Materials Management**
+  https://github.com/yoni-rodriguez/shm-377-hazardous-materials-management
 
 My teaching emphasizes scientific reasoning, active learning, case studies, data literacy, and reproducible approaches to occupational and environmental health.
 
@@ -82,5 +85,5 @@ My teaching emphasizes scientific reasoning, active learning, case studies, data
 
 ## Professional Profiles
 
-* University of Washington: https://pnash.deohs.washington.edu/profile/yoni-rodriguez
-* LinkedIn: https://www.linkedin.com/in/yoni-rodriguez
+* **University of Washington:** https://pnash.deohs.washington.edu/profile/yoni-rodriguez
+* **LinkedIn:** https://www.linkedin.com/in/yoni-rodriguez
