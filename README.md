@@ -36,7 +36,7 @@ Develop R, R Markdown, Quarto, Git, and GitHub workflows for data cleaning, anal
 
 Developed air quality monitoring technologies and statistical models for wildfire smoke and pesticide drift. Investigated drinking water contaminants on the Yakama Reservation and lead exposure from cookware among Afghan refugee children.
 
-### Aerospace Environmental Health
+### Aerospace Occupational Health
 
 At NASA Armstrong Flight Research Center, developed and managed initiatives addressing extreme heat, respiratory health, electromagnetic fields, and chemical exposures in demanding operational environments.
 
